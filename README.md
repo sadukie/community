@@ -1,14 +1,8 @@
-# Eastern Ohio Tech Community
+# Northeastern Ohio Tech Community
 
 Over the years, I used to run a website called Cleveland Tech Events where I tracked all the user groups in Northeast Ohio. This list will show all the user groups that I know of that are active and where to find them.
 
-I have expanded to be Eastern Ohio in general because I call Northeast Ohio home and Southeast Ohio my second home. As I learn more about Southeast Ohio, I'll add more here as well.
-
 If you want to find other Ohio tech groups, check out [this Ohio tech list](https://github.com/mjeaton/ohio-tech).
-
-## Northeast Ohio
-
-This list includes groups near Cleveland and Akron.
 
 ### Programming Languages
 
@@ -66,7 +60,3 @@ This list includes groups near Cleveland and Akron.
 - [Open Cleveland](https://www.meetup.com/open-cleveland/)
 - [We Make the Internet](https://www.meetup.com/make-the-internet/)
 - [Women Who Code - Cleveland](https://www.meetup.com/women-who-code-cleveland/)
-
-## Southeast Ohio
-
-This list will hopefully cover groups near Zanesville and Athens.
