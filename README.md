@@ -10,17 +10,17 @@ If you want to find other Ohio tech groups, check out [this Ohio tech list](http
 
 ### Programming Languages
 
-- [Cleveland Python (ClePy) User Group](https://www.meetup.com/cleveland-area-python-interest-group/)
 - [Cleveland C# User Group](https://www.meetup.com/cleveland-c-vb-net-user-group/)
 - [Cleveland Java Group](https://www.meetup.com/cleveland-java/)
+- [Cleveland Python (ClePy) User Group](https://www.meetup.com/cleveland-area-python-interest-group/)
 - [Cleveland PyLadies](https://www.meetup.com/cle-pyladies/)
 
 ### Data
 
-- [Data, Cloud and AI in Cleveland](https://www.meetup.com/big-data-developers-in-cleveland/)
 - [Cleveland Big Data User Group](https://www.meetup.com/cleveland-hadoop/)
-- [Ohio North Database Training (formerly the Ohio North SQL Server Users Group)](https://www.meetup.com/ohio-north-database-training/)
 - [Cleveland R User Group](https://www.meetup.com/cleveland-user-group/)
+- [Data, Cloud and AI in Cleveland](https://www.meetup.com/big-data-developers-in-cleveland/)
+- [Ohio North Database Training (formerly the Ohio North SQL Server Users Group)](https://www.meetup.com/ohio-north-database-training/)
 
 ### Game Development
 
