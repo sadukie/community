@@ -4,6 +4,8 @@ Over the years, I used to run a website called Cleveland Tech Events where I tra
 
 I have expanded to be Eastern Ohio in general because I call Northeast Ohio home and Southeast Ohio the second home. As I learn more about Southeast Ohio, I'll add more here as well.
 
+If you want to find other Ohio tech groups, check out [this Ohio tech list](https://github.com/mjeaton/ohio-tech).
+
 ## Northeast Ohio
 
 ### Programming Languages
